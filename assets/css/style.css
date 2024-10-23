@@ -820,6 +820,7 @@ canvas {
 ======================================*/
 .section-title {
   text-align: center;
+  font-family: Lobster, sans-serif;
   font-size: 40px;
 }
 @media screen and (min-width: 480px) {
